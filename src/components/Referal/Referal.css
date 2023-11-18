@@ -1,0 +1,82 @@
+.referal-main-container {
+  padding: 140px 0px;
+}
+.referal-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 82px;
+  align-self: stretch;
+}
+.referal-upper-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.referal-header {
+  color: white;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.referal-header-subtext {
+  color: #ebff25;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.referal-content {
+  color: #e7e7ea;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32.849px;
+}
+.referal-card-content {
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  position: relative;
+  left: 20px;
+  bottom: 170px;
+  width: 280px;
+  height: 327px;
+  flex-shrink: 0;
+}
+.referal-card {
+  width: 323px;
+  height: 323px;
+  background-color: #19191d;
+}
+.referal-card-image {
+  position: relative;
+  left: 20px;
+  bottom: 220px;
+}
+.referal-mid-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+.referal-btn {
+  border-radius: 8px;
+  background: linear-gradient(86deg, #d4f938 23.09%, #32d875 108.69%);
+  box-shadow: 0px 0px 16px 0px rgba(168, 239, 156, 0.8);
+  backdrop-filter: blur(5px);
+  display: flex;
+  height: 48px;
+  padding: 24px 48px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: #000;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+}

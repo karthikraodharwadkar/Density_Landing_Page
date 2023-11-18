@@ -1,0 +1,89 @@
+.feedback-main-container {
+  padding: 117px 160px;
+  background: white;
+}
+.feedback-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  align-self: stretch;
+}
+.feedback-upper-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+}
+.feedback-header {
+  color: black;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76px;
+  letter-spacing: -2.097px;
+  width: 100%;
+}
+p {
+  max-width: fit-content;
+}
+.feedback-content {
+  color: #32333a;
+  width: 659px;
+  text-align: center;
+  font-size: 22.366px;
+  font-weight: 400;
+  line-height: 32.849px;
+}
+.feedback-card {
+  height: 450px;
+  width: 362px;
+  background-color: #f3f3f3;
+}
+.feedback-lower-content {
+  width: 303px;
+  color: #666673;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  padding-left: 20px;
+  position: relative;
+  bottom: 220px;
+}
+.feedback-user-name {
+  color: #0e0e0f;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 0%;
+
+  letter-spacing: -1px;
+  position: relative;
+  bottom: 180px;
+  text-align: left;
+  padding-left: 20px;
+}
+.feedback-user-designation {
+  color: #666673;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  bottom: 160px;
+  text-align: left;
+  padding-left: 20px;
+}
+.feedback-user-image {
+  width: 186px;
+  height: 187px;
+  position: relative;
+  bottom: 307px;
+  text-align: left;
+  left: 204px;
+}
+.feedback-lower-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  align-self: stretch;
+}

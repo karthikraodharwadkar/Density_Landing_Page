@@ -1,0 +1,69 @@
+.vision-main-container {
+  padding: 140px 0px;
+  background: #19191d;
+}
+.vision-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 82px;
+  align-self: stretch;
+}
+.vision-header {
+  color: var(--White, #fff);
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+  width: 775px;
+  height: auto;
+}
+.visionaries-text {
+  color: #ebff25;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.vision-card {
+  width: 323px;
+  height: 360px;
+  background: #32333a;
+}
+.vision-lower-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+.vision-card-ceo-name {
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  width: 239px;
+  position: relative;
+  bottom: 220px;
+  padding-left: 20px;
+}
+.vision-card-ceo-company {
+  color: #bbbbc3;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: -1px;
+  position: relative;
+  bottom: 220px;
+  padding-left: 20px;
+}
+.linkedin-image {
+  position: relative;
+  bottom: 120px;
+  padding-left: 20px;
+}
+.vision-card-ceo-image {
+  position: relative;
+  bottom: 408px;
+  left: 40px;
+  padding-left: 20px;
+}

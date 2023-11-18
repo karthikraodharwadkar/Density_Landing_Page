@@ -1,0 +1,94 @@
+.trade-main-section {
+  padding: 140px 0px;
+}
+.trade-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 82px;
+  align-self: stretch;
+}
+.trade-uppersection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.trade-header {
+  width: auto;
+  color: white;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.pay-less-text {
+  color: #ebff25;
+  font-size: 71px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.trade-content {
+  color: #e7e7ea;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32.849px;
+}
+.trade-lowersection {
+  display: flex;
+  padding: 0px 150px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  align-self: stretch;
+}
+.trade-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 438px;
+  flex-direction: column;
+  width: 368px;
+  background: #19191d;
+  position: relative;
+}
+.fee-amount {
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 50.625px;
+  letter-spacing: -1.687px;
+  margin: 0px;
+}
+.fee-text {
+  color: white;
+  opacity: 0.5;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1.687px;
+}
+#density-card {
+  background: linear-gradient(
+    180deg,
+    #daf760 -1.86%,
+    rgba(50, 216, 117, 0.96) 146.77%
+  );
+  box-shadow: 0px 0px 40px 0px rgba(226, 255, 111, 0.8);
+}
+#density-card-text{
+    color: black;
+}
+.pattern-img{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 284px;
+    height: 239px;
+}
+.maker-fees,.taker-fees{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.sell-container {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+.sell-text {
+  color: #ff6554;
+  font-size: 13px;
+  font-weight: 400;
+}

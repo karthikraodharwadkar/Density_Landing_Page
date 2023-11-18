@@ -1,0 +1,88 @@
+html {
+  overflow-x: hidden;
+}
+.account-main-container {
+  padding: 120px 0px;
+}
+.account-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+}
+.account-header {
+  text-align: center;
+  color: white;
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -1.512px;
+  width: 750px;
+}
+.account-text {
+  color: #ebff25;
+  font-size: 65px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -1.512px;
+}
+.account-sections {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+}
+.account-main-image {
+  width: 276.303px;
+  height: 560px;
+  position: relative;
+  left: 180px;
+}
+.account-herocenter-image {
+  width: 248.919px;
+  height: 537.134px;
+  position: relative;
+  right: 82px;
+  top: -15px;
+}
+.account-lower-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.account-right-section-image {
+  width: 99px;
+  height: 100px;
+}
+.account-right-section-header {
+  color: white;
+  font-size: 40px;
+  font-weight: 500;
+}
+.account-right-section-content {
+  color: #a9a9a9;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  width: 384px;
+}
+.account-right-section-btn{
+    width: 216px;
+    height: 48px;
+    padding: 24px 48px;
+    border-radius: 8px;
+    border: none;
+    background: linear-gradient(to right, #d4f938, #32d875);
+    font-size: 16px;
+    font-weight: 700;
+    box-shadow: 0px 0px 16px #a8ef9c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    color: rgba(0, 0, 0, 1);
+}

@@ -1,0 +1,135 @@
+.frontiers-main-container {
+  padding: 150px 0px;
+}
+.frontiers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  align-self: stretch;
+}
+.frontier-upper-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+}
+.frontier-header {
+  color: white;
+  text-align: center;
+  font-size: 69px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.frontier-unlock-text {
+  color: #ebff25;
+  text-align: center;
+  font-size: 69px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.frontier-content {
+  color: #e7e7ea;
+  text-align: center;
+  font-size: 22.366px;
+  font-weight: 400;
+  line-height: 32.849px;
+}
+.frontier-mid-section {
+  display: flex;
+  width: 1140px;
+  height: 171px;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(16, 16, 16, 0.4);
+  backdrop-filter: blur(26.25px);
+}
+.mid-section-text {
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  width: 160px;
+  height: auto;
+}
+.verticalLine {
+  position: relative;
+  top: 15px;
+}
+.frontier-lower-section {
+  display: flex;
+  width: 966px;
+  align-items: flex-start;
+  justify-content: center;
+
+}
+.left-chart-text {
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+.right-chart-text {
+  color: white;
+  text-align: right;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  left:350px;
+  top:80px;
+}
+.sell-component-1{
+    position: relative;
+    bottom:250px;
+    left: 100px;
+}
+.sell-component-2{
+    position: relative;
+    bottom:465px;
+    left: 262px;
+}
+.sell-component-3{
+    position: relative;
+    bottom:540px;
+    left: 505px;
+}
+.buy-component-1{
+    position: relative;
+    bottom:200px;
+    left: 152px;
+}
+.buy-component-2{
+    position: relative;
+    bottom:435px;
+    left: 423px;
+}
+.left-chart-text{
+    position: relative;
+    top:70px;
+}
+.buy-component-3{
+    position: relative;
+    bottom:30px;
+    left:52px;
+}
+.sell-component-4{
+    position: relative;
+    bottom:275px;
+    left:267px;
+}
+.buy-component-4{
+    position: relative;
+    bottom:295px;
+    left:350px;
+}
+.frontier-rightchartimage{
+    position: relative;
+    top:130px;
+}
+.frontierverticalline{
+    position: relative;
+    top:40px;
+}

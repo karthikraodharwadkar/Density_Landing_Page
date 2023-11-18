@@ -1,0 +1,101 @@
+.deposit-main-container {
+  background-color: white;
+  padding: 117px 160px;
+}
+.deposit-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 91px;
+  align-self: stretch;
+}
+.deposit-upper-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  align-self: stretch;
+}
+.deposit-header {
+  color: black;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 76.882px;
+  letter-spacing: -2.097px;
+}
+.deposit-content {
+  color: #32333a;
+  text-align: center;
+  font-size: 22.366px;
+  font-weight: 400;
+  line-height: 32.849px;
+  width: 659.086px;
+}
+.deposit-lower-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  align-self: stretch;
+}
+.deposit-left-section,
+.deposit-right-section {
+  height: 450px;
+  background: #f3f3f3;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-direction: column;
+  padding-left: 40px;
+  width: 553px;
+}
+.deposit-left-content,
+.deposit-right-content {
+  display: flex;
+  width: 424px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16.875px;
+  position: relative;
+  bottom: 30px;
+}
+.deposit-left-sub-header {
+  color: #0e0e0f;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50.625px;
+  letter-spacing: -1.687px;
+  width: 175px;
+}
+.deposit-left-sub-content {
+  color: #666673;
+  font-size: 15.75px;
+  font-weight: 400;
+  line-height: 23.625px;
+}
+.percentage-image,.manager-image {
+  width: 185px;
+  height: 117px;
+  position: relative;
+  bottom: 40px;
+}
+.deposit-right-sub-header {
+  color: #0e0e0f;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50.625px;
+  letter-spacing: -1.687px;
+}
+.deposit-right-sub-content {
+  color: #666673;
+  font-size: 15.75px;
+  font-weight: 400;
+  line-height: 23.625px;
+}
+.boxpattern-image{
+    position: relative;
+    top:15px;
+    left:42px;
+    opacity: 0.4;
+}

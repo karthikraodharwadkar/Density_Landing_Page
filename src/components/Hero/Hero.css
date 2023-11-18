@@ -1,0 +1,133 @@
+.hero-main-container {
+  height: fit-content;
+  padding: 80px 0px 120px 0px;
+}
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 76px;
+  align-self: stretch;
+}
+.hero-header {
+  width: 693px;
+  height: 271px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-direction: column;
+  text-align: center;
+}
+.hero-header-title {
+  height: 200px;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  font-style: normal;
+  font-family: "Space Grotesk", sans-serif;
+  letter-spacing: -4.19px;
+  width: 693px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hero-future-text {
+  background: linear-gradient(to right, #32d875, rgba(213, 250, 57, 0.7));
+  -webkit-text-fill-color: transparent;
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  text-shadow: 0px 0px 10px #d4f938;
+}
+.hero-header-content {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  color: #e7e7ea;
+}
+.hero-section-images {
+  width: 780px;
+  height: 668px;
+  position: relative;
+}
+.hero-images {
+  width: 780px;
+  height: 668px;
+  display: block;
+}
+.hero-leftimage-container {
+  width: 261.34px;
+  height: 529.67px;
+  left: 0px;
+  top: 73.57px;
+  position: absolute;
+  box-shadow: 0px 0px 160px #a8ef9c;
+  border-radius: 50%;
+}
+.hero-left-main-image {
+  width: 261.34px;
+  height: 529.67px;
+  left: -0px;
+  top: -0px;
+  position: absolute;
+  opacity: 0.7;
+}
+.hero-left-image {
+  width: 260px;
+  height: 510px;
+  left: 0px;
+  top: 10px;
+  position: absolute;
+}
+.hero-rightimage-container {
+  width: 260.41px;
+  height: 527.79px;
+  left: 519.18px;
+  top: 75px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 160px #a8ef9c;
+  position: absolute;
+}
+.hero-right-main-image {
+  width: 260.41px;
+  height: 527.79px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  opacity: 0.7;
+}
+.hero-right-image {
+  width: 260px;
+  height: 510px;
+  left: 0px;
+  top: 10px;
+  position: absolute;
+}
+.hero-centerimage-container {
+  width: 329.93px;
+  height: 668.7px;
+  left: 225.78px;
+  top: 0px;
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0px 8px 160px -160px #a8ef9c;
+}
+.hero-center-main-image {
+  width: 329.93px;
+  height: 668.7px;
+  left: -0px;
+  top: -0px;
+  position: absolute;
+  opacity: 0.7;
+}
+.hero-center-image {
+  width: 328px;
+  height: 650px;
+  left: -0px;
+  top: 10px;
+  position: absolute;
+}

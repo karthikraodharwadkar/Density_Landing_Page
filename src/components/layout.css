@@ -32,6 +32,11 @@ html {
   font-size: var(--font-md);
   line-height: var(--line-height-normal);
   overflow-y: scroll;
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  font-style: normal;
+  font-family: Neurial Grotesk, sans-serif;
 }
 body {
   -moz-osx-font-smoothing: grayscale;

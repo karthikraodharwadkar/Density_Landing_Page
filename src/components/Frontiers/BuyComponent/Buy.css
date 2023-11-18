@@ -1,0 +1,10 @@
+.buy-container {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+.buy-text {
+  color: #58f28a;
+  font-size: 13px;
+  font-weight: 400;
+}
